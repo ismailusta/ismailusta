@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🕹currently ı working on my 2D game.<br>🎓graduated from Bakırçay University.</h4>
+<h4 align="left">🕹currently i working on my 2D game.<br>🎓graduated from Bakırçay University.</h4>
 
 ###
 
