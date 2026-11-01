@@ -1,117 +1,135 @@
-<h2 align="left">Hello World! I'm Ismail, a Turkish Computer Engineer👋</h2>
-
-###
-
-###
-
-<h3 align="left">💻 Tech Stack:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-</div>
-
-###
-
-<h3 align="left">📊 Stats:</h3>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailusta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailusta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+# Hi, I'm Ismail 👋
+
+### Full-Stack Software Engineer | TypeScript • React • Next.js • Node.js
+
+Building scalable web applications, digital platforms, and automation systems.
+
+Computer Engineer from Türkiye 🇹🇷 | Founder & Software Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-usta-733770209/)
+[![Website](https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ismailusta.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismailusta)
+
 </div>
 
-###
+---
 
-<h3 align="left">💬 Social Accounts:</h3>
+## 👨‍💻 About Me
 
-###
+I'm a Computer Engineer and Full-Stack Developer focused on building production-ready web applications and digital business platforms.
 
-<div align="left">
-  <a href="https://www.youtube.com/@mordecool28" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ismail-usta-733770209/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@ismail-usta028" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="http://t.me/Mordecaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+My work spans frontend engineering, backend APIs, database-driven applications, payment integrations, multilingual platforms, and workflow automation.
 
-###
+I enjoy taking products from initial architecture to production, solving complex technical challenges, and using AI-assisted development tools to improve engineering productivity.
 
-<h3 align="left">👀 Profile Views:</h3>
+- 🚀 Full-stack web application development
+- 🧠 AI-assisted engineering with Cursor and LLM tools
+- ⚡ API development and backend architecture
+- 🌍 Multilingual applications and international platforms
+- 💳 Payment systems and business process automation
+- 📊 Administrative dashboards and data-driven interfaces
+- 🔧 Performance optimization and production maintenance
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ismailusta/count.svg?"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css)
 
-<h3 align="left">🐍 Snake!!!</h3>
+### Backend & Databases
+![Backend](https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase,dotnet)
 
-###
+### Additional Technologies
+![Additional](https://skillicons.dev/icons?i=cs,cpp,flutter,dart,kotlin)
 
-<br clear="both">
+### Tools & Development
+![Tools](https://skillicons.dev/icons?i=git,github,linux,figma,vscode)
 
-<img src="https://raw.githubusercontent.com/ismailusta/ismailusta/output/snake.svg" alt="Snake animation" />
+**Core Focus:** TypeScript, React, Next.js, Node.js, API Development, Full-Stack Architecture
 
-###
+---
+
+## 🚀 Selected Projects
+
+### 🌍 eVisa Turkey Portal
+**Multilingual Visa Application & Management Platform**
+
+🔗 https://evisaturkeyportal.com
+
+A web application designed to streamline online visa application assistance, document processing, payment workflows, and customer communications.
+
+**My Contributions:**
+- Full-stack development using Next.js, React, and TypeScript
+- Backend APIs and database-driven workflows
+- Stripe payment integration
+- Automated email notifications and scheduled processes
+- Administrative tools and application management
+- Multilingual interfaces and SEO optimization
+
+### 🛂 eVisa Saudi Portal
+**Digital Application & Document Processing Platform**
+
+🔗 https://evisasaudiportal.com
+
+A multilingual platform for visa application assistance, document verification, application workflows, and administrative operations.
+
+**My Contributions:**
+- Frontend and backend architecture
+- Multilingual interfaces and application forms
+- Payment workflow integrations
+- Document validation and application management
+- Administrative interfaces and process automation
+
+### ✈️ Passrota
+**Travel Technology Platform**
+
+🔗 https://passrota.com
+
+A travel technology platform bringing together digital travel services and third-party integrations.
+
+**Focus Areas:**
+- Web application development
+- Travel service integrations
+- API-driven architecture
+- Digital commerce and automation
+
+---
+
+## 🤖 AI-Assisted Development
+
+I use AI-assisted development tools as part of my software engineering workflow.
+
+- **Cursor & LLM Tools:** Architecture exploration, coding, debugging, and refactoring
+- **API Engineering:** Designing and improving backend interfaces
+- **Code Quality:** Reviewing generated code, validating implementation details, and improving maintainability
+- **Optimization:** Investigating performance bottlenecks and improving application workflows
+
+I believe AI tools are most effective when combined with strong engineering judgment and careful validation.
+
+---
+
+## 🎯 Engineering Interests
+
+- Scalable full-stack applications
+- AI-powered software products
+- Data-intensive dashboards
+- API architecture and integrations
+- Automation and intelligent workflows
+- Application security and performance
+- Internationalization (i18n)
+- Cloud-native application development
+
+---
+
+## 🤝 Connect With Me
+
+I'm interested in collaborating on ambitious software projects, especially those involving full-stack engineering, AI-enabled products, and complex web applications.
+
+📧 Feel free to connect through LinkedIn or GitHub.
+
+[LinkedIn](https://www.linkedin.com/in/ismail-usta-733770209/) · [Website](https://ismailusta.com) · [GitHub](https://github.com/ismailusta)
+
