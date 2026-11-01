@@ -2,8 +2,6 @@
 
 ###
 
-<h4 align="left">🕹currently i working on my 2D game.<br>🎓graduated from Bakırçay University.</h4>
-
 ###
 
 <h3 align="left">💻 Tech Stack:</h3>
